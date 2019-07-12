@@ -31,7 +31,7 @@ li {
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: #030303;
+    background-color: #3C2B1B;
     color: white;
     text-align: center;
     padding-top: 5px;
@@ -43,12 +43,13 @@ li {
     letter-spacing: 0.05em;
     text-align: center;
     padding-top: 5px;
-    color: #eee;   
+    color: #eee;
+    height: 30px;   
 }
 
 .card-header {
 	font-size: 2rem;
-	background-color: black;
+	background-color: #3C2B1B;
 	font-family: 'Skranji', cursive;
 	color: white;
 }
@@ -56,25 +57,25 @@ li {
 h1 {
 	color: white;
 	font-weight: bold;
-	font-size: 4rem;
+	font-size: 70px;
 }
 
 h2.card-header {
     color: white;
     font-family: Oswald;
-    font-size: 2rem;
+    font-size: 30px;
     background-color: #ef6c00;
 }
 
 h3 {
-	font-size: 2rem;
+	font-size: 33px;
 	color: #white;
 }
 
 .card {
     background-color: rgba(226, 225, 224, 0.1);
 	filter: alpha(opacity=10);
-	opacity: 0.8;
+    opacity: 0.8;
 }
 
 
